@@ -1,0 +1,4 @@
+body{background: rgb(148, 146, 129);}
+nav{display: flex;
+flex-direction: row;
+justify-content: space-evenly;}
